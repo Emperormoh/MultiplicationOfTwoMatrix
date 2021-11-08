@@ -1,0 +1,13 @@
+/Users/wemabank/Projects/MultiplicationOfTwoMatrix/MultiplicationOfTwoMatrix/bin/Debug/netcoreapp3.1/MultiplicationOfTwoMatrix.deps.json
+/Users/wemabank/Projects/MultiplicationOfTwoMatrix/MultiplicationOfTwoMatrix/bin/Debug/netcoreapp3.1/MultiplicationOfTwoMatrix.runtimeconfig.json
+/Users/wemabank/Projects/MultiplicationOfTwoMatrix/MultiplicationOfTwoMatrix/bin/Debug/netcoreapp3.1/MultiplicationOfTwoMatrix.runtimeconfig.dev.json
+/Users/wemabank/Projects/MultiplicationOfTwoMatrix/MultiplicationOfTwoMatrix/bin/Debug/netcoreapp3.1/MultiplicationOfTwoMatrix.dll
+/Users/wemabank/Projects/MultiplicationOfTwoMatrix/MultiplicationOfTwoMatrix/bin/Debug/netcoreapp3.1/MultiplicationOfTwoMatrix.pdb
+/Users/wemabank/Projects/MultiplicationOfTwoMatrix/MultiplicationOfTwoMatrix/obj/Debug/netcoreapp3.1/MultiplicationOfTwoMatrix.csproj.AssemblyReference.cache
+/Users/wemabank/Projects/MultiplicationOfTwoMatrix/MultiplicationOfTwoMatrix/obj/Debug/netcoreapp3.1/MultiplicationOfTwoMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wemabank/Projects/MultiplicationOfTwoMatrix/MultiplicationOfTwoMatrix/obj/Debug/netcoreapp3.1/MultiplicationOfTwoMatrix.AssemblyInfoInputs.cache
+/Users/wemabank/Projects/MultiplicationOfTwoMatrix/MultiplicationOfTwoMatrix/obj/Debug/netcoreapp3.1/MultiplicationOfTwoMatrix.AssemblyInfo.cs
+/Users/wemabank/Projects/MultiplicationOfTwoMatrix/MultiplicationOfTwoMatrix/obj/Debug/netcoreapp3.1/MultiplicationOfTwoMatrix.csproj.CoreCompileInputs.cache
+/Users/wemabank/Projects/MultiplicationOfTwoMatrix/MultiplicationOfTwoMatrix/obj/Debug/netcoreapp3.1/MultiplicationOfTwoMatrix.dll
+/Users/wemabank/Projects/MultiplicationOfTwoMatrix/MultiplicationOfTwoMatrix/obj/Debug/netcoreapp3.1/MultiplicationOfTwoMatrix.pdb
+/Users/wemabank/Projects/MultiplicationOfTwoMatrix/MultiplicationOfTwoMatrix/obj/Debug/netcoreapp3.1/MultiplicationOfTwoMatrix.genruntimeconfig.cache
